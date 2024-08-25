@@ -23,7 +23,8 @@
 	left: 0px;
 	width: 100%;
 	padding: 0px 0px;
-    background: rgba(23, 23, 23, 0.95);
+    /* background: rgba(23, 23, 23, 0.95); */
+    background: #0d2a4c ;
 	opacity: 0;
     visibility: hidden;
 	transition: all 500ms ease;
