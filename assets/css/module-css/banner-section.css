@@ -659,10 +659,10 @@
     background-image: -ms-linear-gradient( 90deg, rgba(0,0,0,0) 0%, rgb(0,0,0) 100%);
 }
 .main-slider.style5 .slide {
-    padding: 301px 0px 250px;
+    padding: 210px 0px 150px;
 }
 .main-slider.style5 .slide .image-layer:before {
-    background-color: rgba(0, 0, 0, 0.65);
+    background-color: rgba(0, 0, 0, 0.35);
 }
 .main-slider.style5 .content{
     position: relative;
